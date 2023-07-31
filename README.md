@@ -1,3 +1,10 @@
+<p float="left">
+  <img src="img/homepage-docker-logo.png" width="100" />
+  <img src="img/Google-Cloud-Emblem.png" width="100" /> 
+  <img src="img/streamlit-logo-primary-colormark-darktext.png" width="100" />
+  <img src="img/1024px-Amazon_Web_Services_Logo.svg.png" width="100" />
+</p>
+
 # Wind Profile Generation
 
 See this app in action on GCP: [Wind Data Modeling App](https://wind-profile-generation-sx5r563bta-uc.a.run.app/).
