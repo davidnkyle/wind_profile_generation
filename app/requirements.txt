@@ -5,3 +5,4 @@ xarray
 xarray[complete]
 matplotlib
 boto3
+plotly
