@@ -1,6 +1,6 @@
 # Wind Profile Generation
 
-See this app in action on GCP: link here.
+See this app in action on GCP: [Wind Data Modeling App](https://wind-profile-generation-sx5r563bta-uc.a.run.app/).
 
 The app simulates wind speed data based on the characteristics of ERA5 
 data from anywhere in the US. 
